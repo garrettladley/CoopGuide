@@ -27,7 +27,7 @@
 * Check NUWorks Frequently
     * Try to check back at least once a week after your initial spam of applications since companies will post more co-ops as the semester goes on
 
-## Interviews:
+## Interviews
 
 All the behavioral questions I've been asked:
 * General
@@ -52,7 +52,7 @@ Ensure you have at least 3 questions prepared for each interview. When the inter
 
 One part about the search for CS/related fields is the coding challenges. I got lots of these take-home challenges and from my experience they were easy-medium questions. Topics I ran into were basic algorithms & optimization (take this function from O(n^2) to O(n), simple DP) and data structures (Maps/Dictionaries, Lists, Stacks, Queues, Heaps, Trees, Graphs). Generally, the hardest part is figuring out what the question is asking. Once you know what they're looking for the code is short & sweet. For these I would just recommend setting some time aside and getting it over with. Ideally try to solve all the questions with additional test cases that go beyond what you're given, descriptive commenting, and accounting for edge cases. Keep in mind these are just a prescreening tool to thin down the applicant pool before conducting interviews; so while it isn't the end of the world if you don't pass all test cases, aim to have at least 75% of their test cases passing so you don't get weeded out.
 
-## Advice:
+## Advice
 
 * Avoid Comparing Yourself To Others
     * While your friends & classmates can be a good gauge of progression through the process, remember everyone has different experiences, levels of comfort in interviews, perspectives they can bring to a team, among many other things. The upsides of comparing yourself to others are limited while the downsides can be much worse, hurting your mental health and putting strain on relationships. Instead of spending time thinking about how X did Y, you're better than X at Z, and you did "all" the work on the your project with X, focus on making yourself the best possible candidate.
