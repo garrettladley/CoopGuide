@@ -33,7 +33,8 @@ All the behavioral questions I've been asked:
 * General
     * Tell me about yourself.
     * Walk me through your resume.
-    * Why [your combined major]?
+    * Why [your major]?
+        * For combined majors, why [combined major 1] __and__ [combined major 2]?
     * Why Northeastern?
     * Tell me about a time when you worked in in a team.
     * Tell me about a time where you disagreed with a team member. How did your resolve this?
