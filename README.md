@@ -25,7 +25,7 @@
 * Once You're Cleared, Spam Apply
     * Ideally 50+ initially. Remember, applying to co-ops & jobs isn't like college. Companies aren't obligated to follow-up on your application so it's in your best interest to cast your net as wide as possible.
 * Check NUWorks Frequently
-    * Try to check back at least once a week after your initial spam of applications since companies will post more co-ops as the semester goes on
+    * Try to check back at least once a week after your initial spam of applications since companies will post more co-ops as the semester goes on.
 
 ## Interviews
 
@@ -34,7 +34,7 @@ All the behavioral questions I've been asked:
     * Tell me about yourself.
     * Walk me through your resume.
     * Why [your major]?
-        * For combined majors, why [combined major 1] __and__ [combined major 2]?
+        * For combined majors, why [combined major 1] ***and*** [combined major 2]?
     * Why Northeastern?
     * Tell me about a time when you worked in in a team.
     * Tell me about a time where you disagreed with a team member. How did your resolve this?
