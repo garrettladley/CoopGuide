@@ -1,6 +1,6 @@
 # A Guide for Co-op
 
-## [The Resume I Used](https://github.com/garrettladley/CoopGuide/blob/main/Garrett%Ladley%Resume.pdf)
+## [The Resume I Used](https://github.com/garrettladley/CoopGuide/blob/main/Garrett%20Ladley%20Resume.pdf)
 ## [My LinkedIn](https://www.linkedin.com/in/garrett-ladley/)
 
 ## What to do Over Break
