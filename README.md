@@ -1,6 +1,6 @@
 # A Guide for Co-op
 
-## [The Resume I used](https://github.com/garrettladley/CoopGuide/blob/main/Garrett%Ladley%Resume.pdf)
+## [The Resume I Used](https://github.com/garrettladley/CoopGuide/blob/main/Garrett%Ladley%Resume.pdf)
 ## [My LinkedIn](https://www.linkedin.com/in/garrett-ladley/)
 
 ## What to do Over Break
@@ -64,3 +64,5 @@ One part about the search for CS/related fields is the coding challenges. I got 
     * Pick a general purpose language you will interview in and stick with it. Do all your interview prep, coding challenges, and technical interviews in this language. Over time you will pick up little bits of syntactic sugar which will optimize your interviewing. My personal preference was Python since it required less boilerplate, was more readable which made it easier to explain, and had a lot of built in features.
 * LeetCode
     * In your interview language, be able to do the easies within 10-15 min while explaining, commenting, testing, and identifying edge cases. First co-op live codes typically won’t go beyond this level of difficulty. 
+
+# Best of Luck!
